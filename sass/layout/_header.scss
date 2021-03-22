@@ -158,25 +158,11 @@
 
 .burger-btn {
   display: inline-flex;
-  padding: 0;
+  padding: 10px 0;
   margin: 0;
   border: none;
   background-color: transparent;
   cursor: pointer;
-
-  .icon-close {
-    display: none;
-  }
-
-  &.is-open {
-    .icon-close {
-      display: block;
-    }
-
-    .icon-burger {
-      display: none;
-    }
-  }
 
   @media screen and (min-width: 768px) {
     display: none;
