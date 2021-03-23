@@ -2,6 +2,12 @@
   padding: 0 15px;
   margin: 0 auto;
 
+  .hero & {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
   @media screen and (max-width: 479px) {
     .header & {
       display: flex;
