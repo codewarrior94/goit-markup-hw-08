@@ -28,5 +28,7 @@
 }
 
 .logo--footer {
+  display: flex;
+  justify-content: center;
   color: var(--additional-text-color);
 }

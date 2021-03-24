@@ -5,6 +5,14 @@
   margin-top: 16px;
 }
 
+.social-list__item {
+  @media screen and (max-width: 767px) {
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+}
+
 .social-list__link {
   display: flex;
   justify-content: center;
@@ -33,4 +41,8 @@
   .social-list__icon {
     fill: var(--additional-text-color);
   }
+}
+
+.footer-social__wrapper {
+  display: block;
 }
