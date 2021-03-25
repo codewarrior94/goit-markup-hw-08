@@ -8,6 +8,7 @@
     background-color: var(--additional-text-color);
     transform: translateX(200%);
     transition: transform 250ms ease-in-out;
+    z-index: 999;
 
     &.is-open {
       transform: translateX(0);
