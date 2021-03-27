@@ -31,4 +31,8 @@
   display: flex;
   justify-content: center;
   color: var(--additional-text-color);
+
+  @media screen and (min-width: 1200px) {
+    justify-content: flex-start;
+  }
 }

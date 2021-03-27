@@ -5,6 +5,14 @@
   background: #f5f4fa;
 
   @media screen and (min-width: 1200px) {
+    & .label {
+      font-size: 36px;
+      line-height: 1.166;
+      margin-bottom: 50px;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
     padding-top: 94px;
     padding-bottom: 94px;
   }
