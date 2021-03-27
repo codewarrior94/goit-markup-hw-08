@@ -1,6 +1,10 @@
 .footer {
   background: #2f303a;
   padding: 60px 0;
+
+  @media screen and (min-width: 1200px) {
+    padding: 94px 0;
+  }
 }
 
 .address {
@@ -41,10 +45,14 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  margin-bottom: 60px;
+
+  @media screen and (max-width: 767px) {
+    margin-bottom: 60px;
+  }
 
   @media screen and (min-width: 1200px) {
     margin-left: 70px;
+    align-items: flex-start;
   }
 }
 

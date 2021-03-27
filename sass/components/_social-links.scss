@@ -6,10 +6,8 @@
 }
 
 .social-list__item {
-  @media screen and (max-width: 767px) {
-    &:not(:last-child) {
-      margin-right: 10px;
-    }
+  &:not(:last-child) {
+    margin-right: 10px;
   }
 }
 

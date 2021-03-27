@@ -12,9 +12,14 @@
     content: '';
   }
 
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 768px) {
     &::after {
       margin-top: 29px;
     }
   }
+}
+
+.current-active {
+  background-color: var(--main-logo-color);
+  color: #ffffff !important;
 }

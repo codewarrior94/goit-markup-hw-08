@@ -8,22 +8,30 @@
   flex-wrap: wrap;
   margin: -30px;
 
+  @media screen and (min-width: 768px) {
+    margin: -15px;
+  }
+
   @media screen and (min-width: 1200px) {
     margin: -15px;
   }
 }
 
 .cards-section-list-items {
-  &:nth-child(3n) {
-    margin-right: 0;
-  }
-
   @media screen and (max-width: 767px) {
     width: 100%;
     margin: 30px;
   }
 
+  @media screen and (min-width: 768px) and (max-width: 1199px) {
+    margin: 15px;
+    width: calc((100% - 4 * 15px) / 2);
+  }
+
   @media screen and (min-width: 1200px) {
+    &:nth-child(3n) {
+      margin-right: 0;
+    }
     margin: 15px;
   }
 }
@@ -31,15 +39,12 @@
 .cards-section-list-items-box {
   background: #ffffff;
   outline: 1px solid #eeeeee;
+  height: inherit;
 }
 
 .cards-section-img-wrapper {
   position: relative;
   overflow: hidden;
-
-  // & .img {
-  //   width: 100%;
-  // }
 }
 
 .cards-overlay {
