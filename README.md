@@ -10,7 +10,7 @@ This project was created by **GOIT Academy** and
 implemented by **Me**. <br/> 
 However I`ve done it only by my personal powers and skills.
 
-### If you want to see my project, you can do it on [GitHub Pages](1).
+### If you want to see my project, you can do it on [GitHub Pages][1].
 
 <br>
 
@@ -32,4 +32,4 @@ However I`ve done it only by my personal powers and skills.
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-[1]: (https://codewarrior94.github.io/goit-markup-hw-08/)
+[1]: https://codewarrior94.github.io/goit-markup-hw-08/
