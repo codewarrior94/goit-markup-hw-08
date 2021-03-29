@@ -4,7 +4,7 @@
 <br/>
 
 ## Main information
----
+
 This project was created by **GOIT Academy** and 
 implemented by **Me**. <br/> 
 However I`ve done it only by my personal powers and skills.
@@ -14,7 +14,6 @@ However I`ve done it only by my personal powers and skills.
 <br>
 
 ## Skills was used
----
 
 <br>
 
@@ -25,7 +24,6 @@ However I`ve done it only by my personal powers and skills.
 <br>
 
 ## Tools was used
----
 
 <br>
 
