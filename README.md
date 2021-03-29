@@ -1,10 +1,34 @@
-# goit-markup-hw-08
+### Created by GOIT Academy | Layout the site Troitskiy Dmytro
+> In any incomprehensible situation, see Repeta  🤣
 
-<!-- TODO
+<br/>
 
-  ! 1. Перенести разметку header в portfolio
+## Main information
+---
+This project was created by **GOIT Academy** and 
+implemented by **Me**. <br/> 
+However I`ve done it only by my personal powers and skills.
 
-  !  2. Сделать анемации для переходов и мобильного меню
-   !     2.1 Анимация для ховера и фокуса
+### If you want to see my project, you can do it on [GitHub Pages](https://codewarrior94.github.io/goit-markup-hw-08/).
 
-  !  3. Выолвнять иконки в имейле и телефоне -->
+<br>
+
+## Skills was used
+---
+
+<br>
+
+- HTML Markup
+- CSS Stylesheet
+- SCSS Preprocessor
+
+<br>
+
+## Tools was used
+---
+
+<br>
+
+- [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
